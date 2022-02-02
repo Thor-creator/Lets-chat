@@ -1,15 +1,15 @@
 
 //ADD YOUR FIREBASE LINKS HERE
 
+    
 const firebaseConfig = {
-      apiKey: "AIzaSyDDBn6b-gkpIzOcXGL_S35t5SijpiA8iVI",
-      authDomain: "kwitter-2c7e9.firebaseapp.com",
-      databaseURL: "https://kwitter-2c7e9-default-rtdb.firebaseio.com",
-      projectId: "kwitter-2c7e9",
-      storageBucket: "kwitter-2c7e9.appspot.com",
-      messagingSenderId: "262172180721",
-      appId: "1:262172180721:web:44c22e5a266e9774b6a950",
-      measurementId: "G-E2CNGV1WHX"
+        apiKey: "AIzaSyDCc0F1cMLiq-aK_Ve6ynMS01RzWWU-xtk",
+        authDomain: "let-s-chat-app-a705d.firebaseapp.com",
+        databaseURL: "https://let-s-chat-app-a705d-default-rtdb.firebaseio.com",
+        projectId: "let-s-chat-app-a705d",
+        storageBucket: "let-s-chat-app-a705d.appspot.com",
+        messagingSenderId: "824085555579",
+        appId: "1:824085555579:web:f5846cb1bbe57aa43975de"
     };
     
     // Initialize Firebase
